@@ -1,6 +1,6 @@
 # website
 The \_blank website
-
+Really Awesome Website
 ## Contributing
 Create a PR if you have some valuable changes with commit self explanatory.  
 HTML in the root directory and css in /css should not be modified directly.  
